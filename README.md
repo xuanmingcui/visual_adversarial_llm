@@ -1,8 +1,6 @@
-Codebase for the paper:  
 
-[**On the Robustness of Large Multimodal Models Against Image Adversarial Attacks**](https://arxiv.org/pdf/2312.03777)  [CVPR 2024]
 
-Authors: Xuanming Cui, Alejandro Aparcedo, Young Kyun Jang, Ser-Nam Lim  
+# [**On the Robustness of Large Multimodal Models Against Image Adversarial Attacks**](https://arxiv.org/pdf/2312.03777)  [CVPR 2024]
 
 ### Requirements
 
